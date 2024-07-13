@@ -1,0 +1,12 @@
+.intro{
+color: orange;
+}
+
+main .intro p{
+    color: red;
+    font-size: 35px;
+}
+
+.services h2 + div {
+    background-color: blue;
+}
